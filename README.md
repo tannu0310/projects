@@ -89,7 +89,7 @@ pragma solidity ^0.8.18
 ## Authors
 
   
-[Nitin Gupta]
+[Tannu Singla]
 
 
 ## License
